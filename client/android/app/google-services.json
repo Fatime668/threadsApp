@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "383907120701",
+    "project_id": "diesel-rhythm-392105",
+    "storage_bucket": "diesel-rhythm-392105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383907120701:android:4df5398bfdeab948dd0c54",
+        "android_client_info": {
+          "package_name": "com.becodemy.threads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383907120701-8m3gbe6l5od7iu33sdnid20c0ei7rk9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9zzJa-sWNj0LZ5UMMHKiBX4qLZl1wpDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383907120701-8m3gbe6l5od7iu33sdnid20c0ei7rk9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "383907120701-315kahoqg28m9it75lhgv5libjjh3pu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Deliveroo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
